@@ -1,30 +1,36 @@
 <div align="center">
 
-# Hey there! I'm Waheedullah, welcome to my GitHub 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Waheedullah&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Self-Taught%20Web%20Developer&descAlignY=60"/>
 
-### 💻 Self-Taught Web Developer
+# Hey there! I'm Waheedullah 👋
 
-Building modern web applications • Learning every day • Future Full-Stack Developer
+### 💻 Self-Taught Web Developer | JavaScript Developer | React Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Frontend+Developer;Currently+Learning+React.js;Future+Full-Stack+Developer" />
+> Building modern web applications, learning every day, and growing into a Full-Stack Developer.
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4F46E5&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;JavaScript+Developer;Currently+Learning+React.js;Future+Full-Stack+Developer;Always+Learning+Something+New" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
+
+👨‍💻 I'm a self-taught web developer who enjoys turning ideas into real web applications.
+
+I'm currently focused on strengthening my frontend development skills while preparing to become a full-stack developer.
 
 * 🌱 Currently learning **React.js**
-* 💻 Building projects to strengthen my full-stack development skills
-* 📚 Self-taught developer passionate about web technologies
+* 💻 Building real-world projects to improve my skills
+* 📚 Passionate about clean code and continuous learning
 * 🎯 Working toward becoming a Full-Stack Developer
-* ⚡ I enjoy solving programming challenges and writing clean, maintainable code.
+* 🚀 Open to learning new technologies and best practices
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 
@@ -32,75 +38,79 @@ Building modern web applications • Learning every day • Future Full-Stack De
 
 ---
 
-## 📚 Learning Roadmap
+# 📚 Learning Roadmap
 
-* ✅ HTML
-* ✅ CSS
-* ✅ JavaScript
-* 🔄 React.js
-* ⏳ Python
-* ⏳ Django
-* ⏳ Django REST Framework
-* ⏳ PostgreSQL
-
----
-
-## 📂 Featured Projects
-
-| Project                      | Description                                         |
-| ---------------------------- | --------------------------------------------------- |
-| 📘 JavaScript Challenges     | A collection of JavaScript exercises and solutions. |
-| 📖 Daily Vocabulary Learning | Learning English vocabulary through coding.         |
-| ✍️ Grammar Learning          | JavaScript-based grammar practice project.          |
+| Status | Technology            |
+| :----: | --------------------- |
+|    ✅   | HTML5                 |
+|    ✅   | CSS3                  |
+|    ✅   | JavaScript (ES6+)     |
+|   🔄   | React.js              |
+|    ⏳   | Python                |
+|    ⏳   | Django                |
+|    ⏳   | Django REST Framework |
+|    ⏳   | PostgreSQL            |
 
 ---
 
-## 📊 GitHub Stats
+# 📂 Featured Projects
 
-<p align="center">
+| Project                      | Description                                                          |
+| ---------------------------- | -------------------------------------------------------------------- |
+| 📘 JavaScript Challenges     | A collection of JavaScript exercises and solutions.                  |
+| 📖 Daily Vocabulary Learning | A website for learning and practicing English vocabulary every day.  |
+| ✍️ Grammar Learning          | A website for learning, practicing, and organizing grammar concepts. |
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=waheedwana&show_icons=true&theme=github_dark&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waheedwana&layout=compact&theme=github_dark&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
 <img src="https://streak-stats.demolab.com?user=waheedwana&theme=github-dark&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
-## 🎯 Goals for 2026
+# 🎯 Goals for 2026
 
-* Build 10+ real-world projects
-* Master React.js
-* Learn Python
-* Learn Django & Django REST Framework
-* Learn PostgreSQL
-* Build a professional portfolio website
-* Contribute to open source
-* Prepare for remote software engineering opportunities
+* 🚀 Master React.js
+* 🐍 Learn Python
+* ⚙️ Learn Django & Django REST Framework
+* 🗄️ Learn PostgreSQL
+* 🌐 Build a professional portfolio website
+* 📦 Build 10+ real-world projects
+* 🤝 Contribute to open source
+* 💼 Prepare for remote software engineering opportunities
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="https://github.com/waheedwana">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<!-- Add LinkedIn later -->
+<!-- Add your LinkedIn here -->
 
-<!-- Add Portfolio later -->
+<!-- Add your portfolio here -->
+
+<!-- Add your email here -->
 
 </p>
 
@@ -108,8 +118,8 @@ Building modern web applications • Learning every day • Future Full-Stack De
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for stopping by!
 
-*"Code. Learn. Improve. Repeat."*
+*"Code. Learn. Build. Repeat."*
 
 </div>
