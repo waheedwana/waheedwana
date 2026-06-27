@@ -12,21 +12,21 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
-👨‍💻 I'm a self-taught web developer who enjoys turning ideas into real web applications.
+ I'm a self-taught web developer who enjoys turning ideas into real web applications.
 
 I'm currently focused on strengthening my frontend development skills while preparing to become a full-stack developer.
 
-* 🌱 Currently learning **React.js**
-* 💻 Building real-world projects to improve my skills
-* 📚 Passionate about clean code and continuous learning
-* 🎯 Working toward becoming a Full-Stack Developer
-* 🚀 Open to learning new technologies and best practices
+*  Currently learning **React.js**
+*  Building real-world projects to improve my skills
+*  Passionate about clean code and continuous learning
+*  Working toward becoming a Full-Stack Developer
+*  Open to learning new technologies and best practices
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 <p align="center">
 
@@ -36,7 +36,7 @@ I'm currently focused on strengthening my frontend development skills while prep
 
 ---
 
-# 📚 Learning Roadmap
+#  Learning Roadmap
 
 | Status | Technology            |
 | :----: | --------------------- |
@@ -51,17 +51,17 @@ I'm currently focused on strengthening my frontend development skills while prep
 
 ---
 
-# 📂 Featured Projects
+# Featured Projects
 
 | Project                      | Description                                                          |
 | ---------------------------- | -------------------------------------------------------------------- |
-| 📘 JavaScript Challenges     | A collection of JavaScript exercises and solutions.                  |
-| 📖 Daily Vocabulary Learning | A website for learning and practicing English vocabulary every day.  |
-| ✍️ Grammar Learning          | A website for learning, practicing, and organizing grammar concepts. |
+|  JavaScript Challenges     | A collection of JavaScript exercises and solutions.                  |
+|  Daily Vocabulary Learning | A website for learning and practicing English vocabulary every day.  |
+|  Grammar Learning          | A website for learning, practicing, and organizing grammar concepts. |
 
 ---
 
-# 📊 GitHub Statistics
+#  GitHub Statistics
 
 <div align="center">
 
@@ -73,7 +73,7 @@ I'm currently focused on strengthening my frontend development skills while prep
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <div align="center">
 
@@ -83,20 +83,20 @@ I'm currently focused on strengthening my frontend development skills while prep
 
 ---
 
-# 🎯 Goals for 2026
+#  Goals for 2026
 
-* 🚀 Master React.js
-* 🐍 Learn Python
-* ⚙️ Learn Django & Django REST Framework
-* 🗄️ Learn PostgreSQL
-* 🌐 Build a professional portfolio website
-* 📦 Build 10+ real-world projects
-* 🤝 Contribute to open source
-* 💼 Prepare for remote software engineering opportunities
+*  Master React.js
+*  Learn Python
+*  Learn Django & Django REST Framework
+*  Learn PostgreSQL
+*  Build a professional portfolio website
+*  Build 10+ real-world projects
+*  Contribute to open source
+*  Prepare for remote software engineering opportunities
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
@@ -116,7 +116,7 @@ I'm currently focused on strengthening my frontend development skills while prep
 
 <div align="center">
 
-### ⭐ Thanks for stopping by!
+### Thanks for stopping by!
 
 *"Code. Learn. Build. Repeat."*
 
