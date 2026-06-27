@@ -1,12 +1,12 @@
 <div align="center">
 
-# Hi 👋, I'm Waheedullah
+# 👋 Hello, I'm Waheedullah
 
 ### 💻 Self-Taught Web Developer
 
-Passionate about building modern web applications, solving real-world problems, and continuously improving through hands-on projects.
+Building modern web applications • Learning every day • Future Full-Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Self-Taught+Web+Developer;JavaScript+Developer;Learning+React.js;Future+Full-Stack+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;JavaScript+Developer;Currently+Learning+React.js;Future+Full-Stack+Developer" />
 
 </div>
 
