@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Waheedullah&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Self-Taught%20Web%20Developer&descAlignY=60"/>
-
 # Hey there! I'm Waheedullah 👋
 
 ### 💻 Self-Taught Web Developer | JavaScript Developer | React Learner
