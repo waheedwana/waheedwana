@@ -59,30 +59,6 @@ I'm currently focused on strengthening my frontend development skills while prep
 |  Daily Vocabulary Learning | A website for learning and practicing English vocabulary every day.  |
 |  Grammar Learning          | A website for learning, practicing, and organizing grammar concepts. |
 
----
-
-#  GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=waheedwana&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waheedwana&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
-
----
-
-#  GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=waheedwana&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
 #  Goals for 2026
 
 *  Master React.js
@@ -104,11 +80,9 @@ I'm currently focused on strengthening my frontend development skills while prep
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<!-- Add your LinkedIn here -->
 
-<!-- Add your portfolio here -->
 
-<!-- Add your email here -->
+<!-- waheedwana123@gmail.com -->
 
 </p>
 
