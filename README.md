@@ -4,7 +4,7 @@
 
 ### 💻 Self-Taught Web Developer | JavaScript Developer | React Learner
 
-> Building modern web applications, learning every day, and growing into a Full-Stack Developer.
+> Building modern web applications, learning every day and growing into a Full-Stack Developer.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1200&color=4F46E5&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub!;JavaScript+Developer;Currently+Learning+React.js;Future+Full-Stack+Developer;Always+Learning+Something+New" />
 
