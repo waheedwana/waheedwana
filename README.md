@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm Waheedullah
+# Hey there! I'm Waheedullah, welcome to my GitHub 👋
 
 ### 💻 Self-Taught Web Developer
 
