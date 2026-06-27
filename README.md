@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey there! I'm Waheedullah 👋
+# Hey there! I'm Waheedullah Amin 👋
 
-### 💻 Self-Taught Web Developer | JavaScript Developer | React Learner
+### 💻 Self-Taught Web Developer | JavaScript | React Learner
 
 > Building modern web applications, learning every day and growing into a Full-Stack Developer.
 
@@ -14,9 +14,7 @@
 
 #  About Me
 
- I'm a self-taught web developer who enjoys turning ideas into real web applications.
-
-I'm currently focused on strengthening my frontend development skills while preparing to become a full-stack developer.
+I'm a self-taught web developer passionate about building modern web applications. I enjoy turning ideas into real projects while continuously improving my skills and working toward becoming a full-stack developer.
 
 *  Currently learning **React.js**
 *  Building real-world projects to improve my skills
@@ -82,7 +80,7 @@ I'm currently focused on strengthening my frontend development skills while prep
 
 
 
-<!-- waheedwana123@gmail.com -->
+ Email: waheedwana123@gmail.com
 
 </p>
 
