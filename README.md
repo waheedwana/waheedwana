@@ -29,26 +29,16 @@ I enjoy learning by building projects, solving problems, and continuously improv
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
-### Backend — Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
 ---
 
 ## 📚 Learning Roadmap
 
-| Status | Technology            |
-| :----: | --------------------- |
-|    ✅   | HTML5                 |
-|    ✅   | CSS3                  |
-|    ✅   | JavaScript (ES6+)     |
-|   🔄   | React.js              |
-|    ⏳   | Python                |
-|    ⏳   | Django                |
-|    ⏳   | Django REST Framework |
-|    ⏳   | PostgreSQL            |
+| Status | Technology        |
+| :----: | ----------------- |
+|    ✅   | HTML5             |
+|    ✅   | CSS3              |
+|    ✅   | JavaScript (ES6+) |
+|   🔄   | React.js          |
 
 ---
 
@@ -68,12 +58,10 @@ I enjoy learning by building projects, solving problems, and continuously improv
 
 * Master **React.js**
 * Build **10+ real-world projects**
-* Learn **Python**
-* Learn **Django & Django REST Framework**
-* Learn **PostgreSQL**
 * Build a professional **portfolio website**
 * Contribute to **open-source projects**
-* Develop strong **full-stack development skills**
+* Develop strong frontend development skills
+* Continue growing toward **Full-Stack Development**
 * Prepare for **remote software engineering opportunities**
 
 ---
