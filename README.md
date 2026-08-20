@@ -1,8 +1,8 @@
-# Hey there! I'm Waheedullah Ameen
+# Hey there! I'm Waheedullah Ameen 👋
 
 ### Self-Taught Web Developer | JavaScript | TypeScript | React Learner
 
-> I build modern web applications while continuously learning, improving, and growing toward becoming a Full-Stack Developer.
+> I build modern web applications while continuously learning, improving and growing toward becoming a Full-Stack Developer.
 
 ---
 
@@ -10,13 +10,13 @@
 
 I'm a self-taught web developer passionate about turning ideas into real, functional web applications.
 
-I enjoy learning by building projects, solving problems, and continuously improving my development skills.
+I enjoy learning by building projects, solving problems and continuously improving my development skills.
 
-* Currently learning **React.js**
-* Building real-world projects with **JavaScript & TypeScript**
-* Continuously improving my problem-solving and coding skills
-* Working toward becoming a **Full-Stack Developer**
-* Always learning new technologies and best practices
+* 💻 Currently learning **React.js**
+* 🛠️ Building real-world projects with **JavaScript & TypeScript**
+* 🧠 Continuously improving my problem-solving and coding skills
+* 🎯 Working toward becoming a **Full-Stack Developer**
+* 🌱 Always learning new technologies and best practices
 
 ---
 
@@ -40,14 +40,14 @@ I enjoy learning by building projects, solving problems, and continuously improv
 
 ## Learning Roadmap
 
-|    Status   | Technology        |
-| :---------: | ----------------- |
-|     Done    | HTML5             |
-|     Done    | CSS3              |
-|     Done    | JavaScript (ES6+) |
-|     Done    | TypeScript        |
-| In Progress | React.js          |
-|   Upcoming  | Tailwind CSS      |
+|     Status     | Technology        |
+| :------------: | :---------------- |
+|     ✅ Done     | HTML5             |
+|     ✅ Done     | CSS3              |
+|     ✅ Done     | JavaScript (ES6+) |
+|     ✅ Done     | TypeScript        |
+| 🔄 In Progress | React.js          |
+|   ⏳ Upcoming   | Tailwind CSS      |
 
 ---
 
@@ -79,7 +79,7 @@ I enjoy learning by building projects, solving problems, and continuously improv
 ---
 
 ## Connect With Me
-
+ 
 Email: [waheedwana123@gmail.com](mailto:waheedwana123@gmail.com)
 
 ---
@@ -88,4 +88,4 @@ Email: [waheedwana123@gmail.com](mailto:waheedwana123@gmail.com)
 
 > **Code. Learn. Build. Repeat.**
 
-Thanks for stopping by!
+Thanks for stopping by! 👋
