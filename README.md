@@ -47,7 +47,7 @@ I enjoy learning by building projects, solving problems and continuously improvi
 |                                  Done                                 | HTML5             |
 |                                  Done                                 | CSS3              |
 |                                  Done                                 | JavaScript (ES6+) |
-| [TypeScript](https://github.com/waheedwana/typescript-movie-explorer) | TypeScript        |
+|                                  Done                                 | TypeScript        |
 |                              In Progress                              | React.js          |
 |                                Upcoming                               | Tailwind CSS      |
 
