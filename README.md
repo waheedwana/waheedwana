@@ -1,26 +1,26 @@
-# Hey there! I'm Waheedullah Ameen 👋
+# Hey there! I'm Waheedullah Ameen
 
-### 💻 Self-Taught Web Developer | JavaScript | TypeScript | React Learner
+### Self-Taught Web Developer | JavaScript | TypeScript | React Learner
 
 > I build modern web applications while continuously learning, improving, and growing toward becoming a Full-Stack Developer.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a self-taught web developer passionate about turning ideas into real, functional web applications.
 
 I enjoy learning by building projects, solving problems, and continuously improving my development skills.
 
-* 🔭 Currently learning **React.js**
-* 💻 Building real-world projects with **JavaScript & TypeScript**
-* 🧠 Continuously improving my problem-solving and coding skills
-* 🎯 Working toward becoming a **Full-Stack Developer**
-* 🌱 Always learning new technologies and best practices
+* Currently learning **React.js**
+* Building real-world projects with **JavaScript & TypeScript**
+* Continuously improving my problem-solving and coding skills
+* Working toward becoming a **Full-Stack Developer**
+* Always learning new technologies and best practices
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -38,33 +38,33 @@ I enjoy learning by building projects, solving problems, and continuously improv
 
 ---
 
-## 📚 Learning Roadmap
+## Learning Roadmap
 
-| Status | Technology        |
-| :----: | ----------------- |
-|    ✅   | HTML5             |
-|    ✅   | CSS3              |
-|    ✅   | JavaScript (ES6+) |
-|    ✅   | TypeScript        |
-|   🔄   | React.js          |
-|    ⏳   | Tailwind CSS      |
-
----
-
-## 🚀 Featured Projects
-
-| Project                                                                   | Description                                                                                                     |
-| ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| 🔐 [Password Generator](https://github.com/waheedwana/Password-generator) | A JavaScript password generator focused on DOM manipulation and user interaction.                               |
-| 🖼️ [Image Slider](https://github.com/waheedwana/image-slider)            | An interactive image slider built with JavaScript, featuring navigation buttons and dynamic slide indicators.   |
-| 🕐 Digital Clock                                                          | A real-time digital clock built with JavaScript and the Date API.                                               |
-| 🔢 Counter App                                                            | A simple JavaScript application for practicing DOM manipulation and event handling.                             |
-| 🎬 TypeScript Movie Explorer                                              | A movie search application built with TypeScript, async/await, API integration, interfaces, and error handling. |
-| 📚 JavaScript Challenges                                                  | A collection of JavaScript exercises and solutions for improving problem-solving skills.                        |
+|    Status   | Technology        |
+| :---------: | ----------------- |
+|     Done    | HTML5             |
+|     Done    | CSS3              |
+|     Done    | JavaScript (ES6+) |
+|     Done    | TypeScript        |
+| In Progress | React.js          |
+|   Upcoming  | Tailwind CSS      |
 
 ---
 
-## 🎯 Goals for 2026
+## Featured Projects
+
+| Project                                                                | Description                                                                                                     |
+| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| [Password Generator](https://github.com/waheedwana/Password-generator) | A JavaScript password generator focused on DOM manipulation and user interaction.                               |
+| [Image Slider](https://github.com/waheedwana/image-slider)             | An interactive image slider built with JavaScript, featuring navigation buttons and dynamic slide indicators.   |
+| Digital Clock                                                          | A real-time digital clock built with JavaScript and the Date API.                                               |
+| Counter App                                                            | A simple JavaScript application for practicing DOM manipulation and event handling.                             |
+| TypeScript Movie Explorer                                              | A movie search application built with TypeScript, async/await, API integration, interfaces, and error handling. |
+| JavaScript Challenges                                                  | A collection of JavaScript exercises and solutions for improving problem-solving skills.                        |
+
+---
+
+## Goals for 2026
 
 * Master **React.js**
 * Master **TypeScript**
@@ -78,14 +78,14 @@ I enjoy learning by building projects, solving problems, and continuously improv
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
-📧 **Email:** [waheedwana123@gmail.com](mailto:waheedwana123@gmail.com)
+Email: [waheedwana123@gmail.com](mailto:waheedwana123@gmail.com)
 
 ---
 
-### 💡 My Philosophy
+### My Philosophy
 
 > **Code. Learn. Build. Repeat.**
 
-Thanks for stopping by! 👋
+Thanks for stopping by!
