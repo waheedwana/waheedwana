@@ -73,6 +73,25 @@ I enjoy learning by building projects, solving problems, and continuously improv
 
 ---
 
+## Projects
+
+### Movie Explorer
+
+A movie discovery application built with React, TypeScript, Vite, React Router, and the OMDb API.
+
+* Movie search and detailed movie information
+* Featured movie collection
+* Favorites functionality using React Context
+* Debounced search
+* Responsive design
+* Loading and error handling
+
+**Live Demo:** [Movie Explorer](https://movie-explorer-taupe-eight.vercel.app/)
+
+**GitHub:** [Movie Explorer Repository](https://github.com/waheedwana/movie-explorer)
+
+
+
 ## Connect With Me
 
 Email: [waheedwana123@gmail.com](mailto:waheedwana123@gmail.com)
