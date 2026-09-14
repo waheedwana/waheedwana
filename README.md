@@ -12,12 +12,12 @@ I'm a self-taught frontend developer passionate about turning ideas into real, f
 
 I enjoy learning by building projects, solving problems, and continuously improving my development skills.
 
-* 💻 Building modern web applications with **React**
-* 🛠️ Working with **JavaScript, TypeScript, and React**
-* 🎨 Building responsive and user-friendly interfaces
-* 🧠 Continuously improving my problem-solving and coding skills
-* 🎯 Working toward becoming a **Full-Stack Software Engineer**
-* 🌱 Always learning new technologies and best practices
+*  Building modern web applications with **React**
+*  Working with **JavaScript, TypeScript, and React**
+*  Building responsive and user-friendly interfaces
+*  Continuously improving my problem-solving and coding skills
+*  Working toward becoming a **Full-Stack Software Engineer**
+*  Always learning new technologies and best practices
 
 ---
 
@@ -77,7 +77,7 @@ I enjoy learning by building projects, solving problems, and continuously improv
 
 ### Movie Explorer
 
-A movie discovery application built with React, TypeScript, Vite, React Router, and the OMDb API.
+A movie discovery application built with React, TypeScript, Vite, React Router and the OMDb API.
 
 * Movie search and detailed movie information
 * Featured movie collection
@@ -102,4 +102,4 @@ Email: [waheedwana123@gmail.com](mailto:waheedwana123@gmail.com)
 
 > **Learn. Code. Build. Repeat.**
 
-Thanks for stopping by! 👋
+Thanks for stopping by! 
