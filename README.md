@@ -57,20 +57,6 @@ I enjoy learning by building projects, solving problems, and continuously improv
 |   📚 Upcoming  | Backend Development                 |
 |     🎯 Goal    | Full-Stack Software Engineering     |
 
----
-
-## Featured Projects
-
-| Project                                                                              | Description                                                                                                     |
-| :----------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
-| [Password Generator](https://github.com/waheedwana/Password-generator)               | A JavaScript password generator focused on DOM manipulation, user interaction, and application logic.           |
-| [Image Slider](https://github.com/waheedwana/image-slider)                           | An interactive image slider built with JavaScript, featuring navigation controls and dynamic slide indicators.  |
-| Digital Clock                                                                        | A real-time digital clock built with JavaScript and the Date API.                                               |
-| Counter App                                                                          | A simple JavaScript application for practicing DOM manipulation and event handling.                             |
-| [TypeScript Movie Explorer](https://github.com/waheedwana/typescript-movie-explorer) | A movie search application built with TypeScript, async/await, API integration, interfaces, and error handling. |
-| JavaScript Challenges                                                                | A collection of JavaScript exercises and solutions focused on improving problem-solving skills.                 |
-
----
 
 ## Goals for 2026
 
